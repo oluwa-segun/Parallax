@@ -41,7 +41,7 @@ section{
 }
 
 .two{
-    background: url('img2.png');
+    background: url('img2.PNG');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -54,7 +54,7 @@ section{
 
 
 .three{
-    background: url('img3.png');
+    background: url('img3.PNG');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
